@@ -1,1 +1,1 @@
-Trying for merge conf from test.
+Trying for merge conf from test. conflict word 2
