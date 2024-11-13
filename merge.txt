@@ -1,3 +1,4 @@
 Trying for merge conf from test. conflict word 2
 Second msg from GH
 modification on GH from remote
+third modification
